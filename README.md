@@ -1,5 +1,5 @@
 # Forest Fire Simulation with CUDA
-#PROJECT UCS635
+# PROJECT UCS635
 
 ## Overview
 A high-performance forest fire simulation using CUDA, optimized for NVIDIA H100 GPU. This implementation uses cellular automaton with advanced fire spread models, environmental factors, and control strategies.
