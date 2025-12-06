@@ -1,4 +1,5 @@
 # Forest Fire Simulation with CUDA
+#PROJECT UCS635
 
 ## Overview
 A high-performance forest fire simulation using CUDA, optimized for NVIDIA H100 GPU. This implementation uses cellular automaton with advanced fire spread models, environmental factors, and control strategies.
@@ -184,4 +185,4 @@ Academic use only. For commercial use, please contact the authors.
 3. Finney, M.A. (2004). "FARSITE: Fire Area Simulator"
 
 ## Contact
-For questions or collaboration: [your contact info]
+For questions or collaboration: abansal10_be22@thapar.edu
